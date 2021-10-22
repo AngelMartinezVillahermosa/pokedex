@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\elementos"
+		},
+		{
+			"path": "..\\etc"
+		},
+		{
+			"path": "..\\fonts"
+		},
+		{
+			"path": "..\\js"
+		},
+		{
+			"path": "..\\pokes"
+		}
+	]
+}
